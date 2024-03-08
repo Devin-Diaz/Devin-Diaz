@@ -1,4 +1,4 @@
-![Header](./ghub-header.png)
+![Header](./github-header.png)
 
 # Hi there 👋, My name is Devin Diaz
 ### I am a Computer Science Student At Framingham State University
