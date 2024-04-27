@@ -5,7 +5,7 @@
   - **Discrete Mathematics TA**
   - **Java Programming / Unix Operating System Tutor**
 ## Currently seeking **Full-Stack/Backend Software Engineering Internships**
-## Skills:
+### Skills:
 <img src="spring-boot-img.png" width="75" height="75"><img src="java-logo.webp" width="75" height="75"><img src="javascript-img.png" width="75" height="75"><img src="py-image.png" width="75" height="75"><img src="c-img.png" width="75" height="75"><img src="html-css-img.png" width="100" height="100"><img src="sql.png" width="100" height="100"><img src="arduino.png" width="75" height="75">
 - **Linux, Unix, Pretext, Bash Scripting, VIM**
 
