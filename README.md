@@ -2,6 +2,7 @@
 
 # Hi there 👋, My name is Devin Diaz
 ## I am a Computer Science Student @ <img src="fsu-logo.jpg" width="25" height="25">Framingham State University 
+  - **Textbook Developer**
   - **Discrete Mathematics TA**
   - **Java Programming / Unix Operating System Tutor**
 ## Currently seeking **Full-Stack/Backend Software Engineering Internships**
