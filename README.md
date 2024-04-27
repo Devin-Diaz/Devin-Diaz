@@ -6,7 +6,7 @@
 ### Skills: Spring Boot, Java, JavaScript, C, Python, Bash Scripting, PreTeXt, HTML / CSS, Thymeleaf
 
 
-<img src="spring-boot-img.png" width="500" height="300"> <img src="py-image.png" width="500" height="300">
+<img src="spring-boot-img.png" width="250" height="250"> <img src="py-image.png" width="250" height="250">
 
 
 
