@@ -10,9 +10,8 @@
 
 ### Contact
 - [LinkedIn](https://www.linkedin.com/in/diazdevin/)
-- <a href="mailto:devindiaz@example.com?subject=Hello%20Devin!&body=I%20came%20across%20your%20GitHub%20profile%20and%20would%20like%20to%20connect.">
-  <img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Devin Diaz">
-</a>
+- - Email: [diazdevin7@outlook.com](mailto:diazdevin7@outlook.com)
+
 
 
 
