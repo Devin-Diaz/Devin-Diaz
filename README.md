@@ -5,7 +5,7 @@
 ### Currently seeking Backend Software Engineering Internships 
 ### Skills: Spring Boot, Java, JavaScript, C, Python, Bash Scripting, PreTeXt, HTML / CSS, Thymeleaf
 
-![spring](spring-boot-image.png)
+![spring](spring-boot-img.png) ![py](py-image.png)
 
 
 
