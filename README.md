@@ -9,8 +9,8 @@
 <img src="spring-boot-img.png" width="125" height="125"><img src="java-logo.webp" width="125" height="125"><img src="javascript-img.png" width="125" height="125"><img src="py-image.png" width="125" height="125"><img src="c-img.png" width="125" height="125"><img src="html-css-img.png" width="125" height="125">
 
 ### Contact
+- Email: [diazdevin7@outlook.com](mailto:diazdevin7@outlook.com)
 - [LinkedIn](https://www.linkedin.com/in/diazdevin/)
-- - Email: [diazdevin7@outlook.com](mailto:diazdevin7@outlook.com)
 
 
 
