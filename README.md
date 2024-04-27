@@ -1,7 +1,7 @@
 ![Header](./gb-header.png)
 
 # Hi there 👋, My name is Devin Diaz
-## I am a Computer Science Student At Framingham State University  <img src="fsu-logo.jpg" width="25" height="25">
+## I am a Computer Science Student @ <img src="fsu-logo.jpg" width="25" height="25">Framingham State University 
   - **Discrete Mathematics TA**
   - **Java Programming / Unix Operating System Tutor**
 ## Currently seeking **Full-Stack/Backend Software Engineering Internships**
