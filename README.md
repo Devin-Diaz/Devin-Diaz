@@ -5,7 +5,7 @@
 ## Currently seeking **Full-Stack/Backend Software Engineering Internships**
 
 ## Skills:
-<img src="spring-boot-img.png" width="125" height="125"><img src="java-logo.webp" width="125" height="125"><img src="javascript-img.png" width="125" height="125"><img src="py-image.png" width="125" height="125"><img src="c-img.png" width="125" height="125"><img src="html-css-img.png" width="150" height="150"><img src="sql.png" width="150" height="150">
+<img src="spring-boot-img.png" width="100" height="100"><img src="java-logo.webp" width="100" height="100"><img src="javascript-img.png" width="100" height="100"><img src="py-image.png" width="100" height="100"><img src="c-img.png" width="100" height="100"><img src="html-css-img.png" width="150" height="150"><img src="sql.png" width="150" height="150">
 - Arduino, Pretext, VIM
 
 ### Contact
