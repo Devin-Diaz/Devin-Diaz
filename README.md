@@ -2,6 +2,7 @@
 
 # Hi there 👋, My name is Devin Diaz
 ## I am a Computer Science Student At Framingham State University
+ <img src="fsu-logo.png" width="50" height="50">
 - Currently seeking Backend Software Engineering Internships
 - Skills: Spring Boot, Java, JavaScript, Python, C, Bash Scripting, PreTeXt, HTML / CSS, Thymeleaf**
 
