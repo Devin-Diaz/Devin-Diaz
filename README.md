@@ -35,11 +35,6 @@ I'm passionate about leveraging technology to solve complex problems and am acti
   <img src="linux-img.png" width="60" height="60">
 </p>
 
-## Projects
-- **[Blue Lock Player Database](#)**: A comprehensive database application built with Spring Boot and React, showcasing data visualization and management for soccer players.
-- **[Excel Data Visualizer](#)**: A Python-based tool that automates data visualization in Excel using pandas and matplotlib.
-- **[Shell Command Parser](#)**: A specialized tool for parsing and analyzing shell command logs, built with Python and Bash scripting.
-
 ## Portfolio
 For more details on my work, visit my [Portfolio](https://personal-portfolio-axfh8t438-devin-diazs-projects.vercel.app/).
 
