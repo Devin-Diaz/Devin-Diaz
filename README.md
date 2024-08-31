@@ -19,21 +19,7 @@ I'm passionate about leveraging technology to solve complex problems and am acti
 - **Java Programming / Unix Operating System Tutor**: Tutored students in programming and operating system fundamentals, helping them build a strong foundation in computer science.
 
 ## Skills
-<p align="center">
-  <img src="react-img.png" width="60" height="55">
-  <img src="django.jpg" width="67" height="55">
-  <img src="spring-boot-img.png" width="60" height="60">
-  <img src="pytorch.png" width="60" height="60">
-  <img src="ros2.png" width="95" height="60">
-  <img src="java-logo.webp" width="60" height="60">
-  <img src="javascript-img.png" width="60" height="60">
-  <img src="py-image.png" width="60" height="60">
-  <img src="c-img.png" width="60" height="60">
-  <img src="html-css-img.png" width="60" height="60">
-  <img src="sql.png" width="60" height="60">
-  <img src="arduino.png" width="60" height="60">
-  <img src="linux-img.png" width="60" height="60">
-</p>
+<img src="react-img.png" width="60" height="55"><img src="django.jpg" width="67" height="55"><img src="spring-boot-img.png" width="60" height="60"><img src="pytorch.png" width="60" height="60"><img src="ros2.png" width="95" height="60"><img src="java-logo.webp" width="60" height="60"><img src="javascript-img.png" width="60" height="60"><img src="py-image.png" width="60" height="60"><img src="c-img.png" width="60" height="60"><img src="html-css-img.png" width="60" height="60"><img src="sql.png" width="60" height="60"><img src="arduino.png" width="60" height="60"><img src="linux-img.png" width="60" height="60">
 
 ## Portfolio
 For more details on my work, visit my [Portfolio](https://personal-portfolio-axfh8t438-devin-diazs-projects.vercel.app/).
