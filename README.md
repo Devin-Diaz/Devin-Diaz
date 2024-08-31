@@ -14,12 +14,12 @@ I'm passionate about leveraging technology to solve complex problems and am acti
 
 ## Professional Experience
 - **Calibration Technician**: Applied technical skills in a hands-on environment, ensuring precision and accuracy in calibration processes.
-- **Textbook Developer**: Contributed to an interactive textbook project, using XML and Python to make complex data accessible and engaging for students.
+- **Educational Textbook Developer**: Contributed to an interactive textbook project, using XML and Python to make complex data accessible and engaging for students.
 - **Discrete Mathematics TA**: Assisted students in understanding complex mathematical concepts, providing guidance and support to enhance their learning experience.
 - **Java Programming / Unix Operating System Tutor**: Tutored students in programming and operating system fundamentals, helping them build a strong foundation in computer science.
 
 ## Skills
-<img src="react-img.png" width="60" height="55"><img src="django.jpg" width="67" height="55"><img src="spring-boot-img.png" width="60" height="60"><img src="pytorch.png" width="60" height="60"><img src="ros2.png" width="95" height="60"><img src="java-logo.webp" width="60" height="60"><img src="javascript-img.png" width="60" height="60"><img src="py-image.png" width="60" height="60"><img src="c-img.png" width="60" height="60"><img src="html-css-img.png" width="60" height="60"><img src="sql.png" width="60" height="60"><img src="arduino.png" width="60" height="60"><img src="linux-img.png" width="60" height="60">
+<img src="react-img.png" width="60" height="55"><img src="django.jpg" width="67" height="55"><img src="spring-boot-img.png" width="60" height="60"><img src="pytorch.png" width="60" height="60"><img src="ros2.png" width="95" height="60"><img src="java-logo.webp" width="60" height="60"><img src="javascript-img.png" width="60" height="60"><img src="py-image.png" width="60" height="60"><img src="c-img.png" width="60" height="60"><img src="html-css-img.png" width="60" height="60"><img src="postgres.png" width="60" height="60"><img src="sql.png" width="60" height="60"><img src="arduino.png" width="60" height="60"><img src="linux-img.png" width="60" height="60">
 
 ## Portfolio
 For more details on my work, visit my [Portfolio](https://personal-portfolio-axfh8t438-devin-diazs-projects.vercel.app/).
