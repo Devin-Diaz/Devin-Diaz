@@ -1,5 +1,3 @@
-![Header](./gb-header.png)
-
 <h1 align="center">Hi 👋 I'm Devin Diaz</h1>
 
 # 💫 About Me:
