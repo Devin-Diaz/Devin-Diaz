@@ -1,31 +1,41 @@
 ![Header](./gb-header.png)
 
-# Hi there 👋, I'm Devin Diaz
+<h1 align="center">Hi 👋 I'm Devin Diaz</h1>
 
-## About Me
-I am a third-year **Computer Science student** at [Framingham State University](https://www.framingham.edu/), currently seeking **Full-Stack/Backend Software Engineering internships**. My experience spans multiple areas of technology, including full-stack development, robotics programming, and educational software development.
+# 💫 About Me:
+I am a third-year computer science student at Framingham State University, passionate about exploring the realms of coding, machine learning, robotics, and building robust applications
 
-I'm passionate about leveraging technology to solve complex problems and am actively working on projects that showcase my skills in **Django**, **React**, and **ROS 2**. I’m also exploring the field of **robotics programming**, where I'm gaining hands-on experience with ROS 2 and Gazebo.
+## 🚀 What I'm Up To
 
-## What I'm Currently Pursuing
-- **Full-Stack Development**: Utilizing **Django** and **React** to build robust, scalable web applications. I'm focused on mastering both frontend and backend technologies to become a well-rounded software engineer.
-- **Robotics Programming**: Delving into **ROS 2** to develop robotics applications, including simulation environments and autonomous systems. This is a new and exciting area where I’m expanding my skill set.
-- **Software Engineering Internships**: Actively seeking opportunities in both frontend and backend development to further my career in software engineering.
+- 🤖 Exploring Machine Learning with [scikit-learn](https://scikit-learn.org/)
+- 💻 Building full-stack applications with React.js, Spring Boot, and PostgreSQL
 
-## Professional Experience
-- **Calibration Technician**: Applied technical skills in a hands-on environment, ensuring precision and accuracy in calibration processes.
-- **Educational Textbook Developer**: Contributed to an interactive textbook project, using XML and Python to make complex data accessible and engaging for students.
-- **Discrete Mathematics TA**: Assisted students in understanding complex mathematical concepts, providing guidance and support to enhance their learning experience.
-- **Java Programming / Unix Operating System Tutor**: Tutored students in programming and operating system fundamentals, helping them build a strong foundation in computer science.
+Check out my [coding portfolio!](https://personal-portfolio-orcin-sigma.vercel.app/)
 
-## Skills
-<img src="react-img.png" width="60" height="55"><img src="django.jpg" width="67" height="55"><img src="spring-boot-img.png" width="60" height="60"><img src="pytorch.png" width="60" height="60"><img src="ros2.png" width="95" height="60"><img src="java-logo.webp" width="60" height="60"><img src="javascript-img.png" width="60" height="60"><img src="py-image.png" width="60" height="60"><img src="c-img.png" width="60" height="60"><img src="html-css-img.png" width="60" height="60"><img src="postgres.png" width="60" height="60"><img src="sql.png" width="60" height="60"><img src="linux-img.png" width="60" height="60">
+## 🎓 About Me
 
-## Portfolio
-For more details on my work, visit my [Portfolio](https://personal-portfolio-axfh8t438-devin-diazs-projects.vercel.app/).
+I'm also a Calibration Technician, TA for Discrete Math, and Java Programming Tutor
 
-## Contact Me
-- 📧 Email: [diazdevin7@outlook.com](mailto:diazdevin7@outlook.com)
-- 💼 LinkedIn: [linkedin.com/in/diazdevin/](https://www.linkedin.com/in/diazdevin/)
 
-Thank you for taking the time to visit my GitHub! I'm always open to connecting with like-minded professionals and exploring new opportunities.
+## 🌐 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diazdevin/)
+
+# 💻 Tech Stack:
+Languages: 
+![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
+![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+
+Developer Tools: 
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+Libraries/Frameworks: 
+![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
+![ReactJS](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) 
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot) 
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
