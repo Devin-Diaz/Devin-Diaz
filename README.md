@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋 I'm Devin Diaz</h1>
-
 ![Header](./gb-header.png)
+
+<h1 align="center">Hi 👋 I'm Devin Diaz</h1>
 
 # 💫 About Me:
 I am a third-year computer science student at Framingham State University, passionate about exploring the realms of coding, machine learning, robotics, and building robust applications
