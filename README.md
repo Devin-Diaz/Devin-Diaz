@@ -12,7 +12,7 @@ Check out my [coding portfolio!](https://personal-portfolio-orcin-sigma.vercel.a
 
 ## 🎓 About Me
 
-- I'm also a Calibration Technician, TA for Discrete Math, and Java Programming Tutor
+- I'm a Calibration Technician, TA for Discrete Math, and Java Programming Tutor
 - I love playing soccer and video games
 - I drive a miata
 
