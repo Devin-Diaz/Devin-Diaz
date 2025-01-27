@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Devin Diaz</h1>
 
 # 💫 About Me:
-I am a third-year computer science student at Framingham State University, passionate about exploring the realms of coding, machine learning, robotics, and building robust applications
+I am a third-year computer science student at Framingham State University, passionate about exploring the realms of coding, ML, robotics, and building robust applications with an Agile methodology.
 
 ## 🚀 What I'm Up To
 
