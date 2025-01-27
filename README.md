@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋 I'm Devin Diaz</h1>
 
 # 💫 About Me:
-I am a third-year computer science student at Framingham State University, passionate about exploring the realms of coding, ML, robotics, and building robust applications with an Agile methodology.
+I am a third-year computer science student at Framingham State University, passionate about exploring the realms of coding, ML, robotics, and building robust applications with an Agile methodology
 
 ## 🚀 What I'm Up To
 
 - 🤖 Exploring Machine Learning with [scikit-learn](https://scikit-learn.org/)
+- 🦾 Exploring robotics programming for autonomous vehicles with [ROS 2](https://docs.ros.org/en/foxy/index.html)
 - 💻 Building full-stack applications with React.js, Spring Boot, and PostgreSQL
 
 Check out my [coding portfolio!](https://personal-portfolio-orcin-sigma.vercel.app/)
