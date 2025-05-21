@@ -13,7 +13,7 @@ I'm a third-year Computer Science student at Framingham State University with a 
 ## 🎓 Quick Facts
 - I'm a Java Programming Tutor and Discrete Math TA
 - Passionate about solving real-world problems through code
-- I enjoy playing soccer, hitting the gym, and driving my Miata 🏎️
+- I enjoy playing soccer, hitting the gym, and drawing
 
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diazdevin/)
