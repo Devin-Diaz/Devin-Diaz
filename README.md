@@ -1,7 +1,7 @@
-<h1 align="center">Hey, I'm Devin Diaz</h1>
+<h1 align="center">Hi, I'm Devin Diaz</h1>
 
 <p align="center">
-  <em>Backend & Full-Stack Development • Data Engineering • 4th-Year CS Student</em>
+  <em>Data Engineering • Full-Stack Development</em>
 </p>
 
 ---
@@ -27,6 +27,7 @@ I'm returning as an **Incoming Data Engineer Associate at Citizens Bank**, conti
 - Distributed systems with **Apache Kafka**
 - Big data processing using **Apache Spark**
 - Workflow orchestration via **Apache Airflow**
+- Table format optimization with **Apache Iceberg**
 
 ---
 
@@ -53,9 +54,9 @@ I'm returning as an **Incoming Data Engineer Associate at Citizens Bank**, conti
 
 ## 🎯 On the Side
 
-- 🧑‍🏫 Programming tutor and TA for discrete mathematics
-- ⚽ Former competitive soccer player turned gym rat
-- 🎨 Still drawing when I need a break from code
+- ⚽ Footy & Gym
+- 🏎️ NB Miata Driver
+- 🎮 Video Games
 
 ---
 
