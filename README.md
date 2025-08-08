@@ -10,7 +10,7 @@
 
 I'm a 4th-year Computer Science student at Framingham State University, passionate about solving real-world problems through software. I recently completed a **Data Engineering Internship at Citizens Bank**, where I helped develop backend APIs for a metadata-driven data platform.
 
-I'm returning as an **Incoming Data Engineer Associate at Citizens Bank**, continuing to work on backend systems, data workflows, and enterprise-scale engineering projects.
+I'm returning as an **Data Engineer Associate at Citizens Bank**, continuing to work on backend systems, data workflows, and enterprise-scale engineering projects.
 
 ---
 
