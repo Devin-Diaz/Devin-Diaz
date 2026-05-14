@@ -1,9 +1,14 @@
 <h1 align="center">Hi, I'm Devin Diaz</h1>
+
 ---
+
 ## 👨‍💻 About Me
+
 Currently a Data Engineer Associate at Citizens Bank. Graduated with a B.S in Computer Science, secondary studies in AI & Mathematics. I aspire to get a
 M.S in Data Science in the near future. Outside of tech I love motorsports, soccer, & video games.
+
 ---
+
 ## 🛠 Tech Stack
 
 **Languages**  
@@ -22,6 +27,7 @@ M.S in Data Science in the near future. Outside of tech I love motorsports, socc
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
+
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diazdevin/)
