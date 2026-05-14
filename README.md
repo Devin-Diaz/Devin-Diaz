@@ -1,10 +1,10 @@
-<h1 align="center">Hi, I'm Devin Diaz</h1>
+<h1 align="center">Hi, I'm Devin Diaz 👋</h1>
 
 ---
 
 ## 👨‍💻 About Me
 
-Currently a Data Engineer Associate at Citizens Bank. Graduated with a B.S in Computer Science, secondary studies in AI & Mathematics. I aspire to get a
+Currently a **Data Engineer Associate at Citizens Bank**. Graduated with a **B.S in Computer Science**, secondary studies in AI & Mathematics. I aspire to get a
 M.S in Data Science in the near future. Outside of tech I love motorsports, soccer, & video games.
 
 ---
